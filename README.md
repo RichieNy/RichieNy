@@ -1,14 +1,18 @@
 ### Hello, I'm Richie! 👋
+<img src="https://img.shields.io/twitter/follow/RichieNyy?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge">
+<img src="https://img.shields.io/discord/733570393847365683?color=%237289DA&label=Discord&logo=Discord&style=for-the-badge">
+<br />
 
 ## I am a Student, Developer, and Content Creator!
 - 🔭 I'm currently working on a [Minecraft Server][parasite] <img width="17" height="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mojangstudios.svg" alt="RichieNy | YouTube"/>
 - 🌱 I'm currently learning TypeScript
+- 📒 I'm a sophomore in High School
 
 ### Connect with me:
 
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="RichieNy | YouTube"/>][youtube]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="RichieNy | Twitter"/>][twitter]
-[<img width="22" src="https://simpleicons.org/icons/tiktok.svg" alt="RichieNy | Instagram"/>][instagram]
+[<img width="22" src="https://simpleicons.org/icons/tiktok.svg" alt="RichieNy | Instagram"/>][tiktok]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" alt="RichieNy | Twitch"/>][twitch]
 
 
@@ -22,8 +26,8 @@
 
 <br />
 <br />
-
-### 📺 Latest YouTube Videos
+<!-- 
+### 📺 Latest YouTube Videos-->
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
@@ -38,6 +42,6 @@
 
 [youtube]: https://www.youtube.com/channel/UChpZFH57DWLRvBfq-f5ZXyw
 [twitter]: https://twitter.com/RichieNyy
-[instagram]: g
+[tiktok]: https://www.tiktok.com/@richienyy
 [twitch]: https://twitch.tv/RichieNy
 [parasite]: https://discord.gg/6MyAmNm
