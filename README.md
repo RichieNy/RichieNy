@@ -11,7 +11,6 @@
 [<img width="22" src="https://simpleicons.org/icons/tiktok.svg" alt="RichieNy | Instagram"/>][instagram]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" alt="RichieNy | Twitch"/>][twitch]
 
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="HTML" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg">
@@ -24,10 +23,16 @@
 <br />
 <br />
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 <details>
     <summary>⚡ GitHub Stats</summary>
 
-    <img align="left" alt="RichieNy's Github Stats" src="https://github-readme-stats.richieny.vercel.app/api?username=RichieNy&show_icons=true&hide_border=true" />
+<img align="left" alt="RichieNy's Github Stats" src="https://github-readme-stats.richieny.vercel.app/api?username=RichieNy&show_icons=true&hide_border=true" />
 
 </details>
 
