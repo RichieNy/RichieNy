@@ -1,10 +1,10 @@
 ### Hello, I'm Richie! 👋
 <img src="https://img.shields.io/twitter/follow/RichieNyy?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge">
-<img src="https://img.shields.io/discord/733570393847365683?color=%237289DA&label=Discord&logo=Discord&style=for-the-badge">
+<img src="https://img.shields.io/discord/239599059415859200?color=%237289DA&label=Minehut!&logo=Discord&style=for-the-badge">
 <br />
 
 ## I am a Student, Developer, and Content Creator!
-- 🔭 I'm currently working on a [Minecraft Server][parasite] <img width="17" height="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mojangstudios.svg" alt="RichieNy | YouTube"/>
+- 🔭 I'm currently working on a [Minecraft Server][parasite] as well as helping Minehut with Bugs Reports/Feature Requests.
 - 🌱 I'm currently learning TypeScript
 - 📒 I'm a sophomore in High School
 
