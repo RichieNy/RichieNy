@@ -4,9 +4,9 @@
 <br />
 
 ## I am a Student, Developer, and Content Creator!
-- 🔭 I'm currently working on a [Minecraft Server][parasite] as well as helping Minehut with Bugs Reports/Feature Requests.
+- 🔭 I'm currently working on a [Minecraft Server][award] as well as helping Minehut with Bugs Reports/Feature Requests.
 - 🌱 I'm currently learning TypeScript
-- 📒 I'm a sophomore in High School
+- 📒 I'm a junior in High School
 
 ### Connect with me:
 
@@ -44,4 +44,4 @@
 [twitter]: https://twitter.com/RichieNyy
 [tiktok]: https://www.tiktok.com/@richienyy
 [twitch]: https://twitch.tv/RichieNy
-[parasite]: https://discord.gg/6MyAmNm
+[award]: https://google.com/
