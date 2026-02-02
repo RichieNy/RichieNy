@@ -3,11 +3,6 @@
 <img src="https://img.shields.io/discord/239599059415859200?color=%237289DA&label=Minehut!&logo=Discord&style=for-the-badge">
 <br />
 
-## I am a Student, Developer, and Content Creator!
-- 🔭 I'm currently working on a [Minecraft Server][award] as well as helping Minehut with Bugs Reports/Feature Requests.
-- 🌱 I'm currently learning TypeScript
-- 📒 I'm a junior in High School
-
 ### Connect with me:
 
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="RichieNy | YouTube"/>][youtube]
@@ -21,7 +16,6 @@
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="TypeScript" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 <br />
